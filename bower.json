@@ -1,0 +1,30 @@
+{
+  "name": "angular-spectrum-colorpicker",
+  "version": "1.3.5.1",
+  "authors": [
+  "ghusse"
+  ],
+  "description": "JQRangeSlider",
+  "main": "jQRangeSlider-withRuler-min.js",
+  "keywords": [
+    "range slider"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tasks",
+    "demo",
+    "src",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
